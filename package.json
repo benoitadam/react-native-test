@@ -1,0 +1,8 @@
+{
+  "name": "react-native-test",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "commit": "git add . && git commit -m 'Up' && git push"
+  }
+}
